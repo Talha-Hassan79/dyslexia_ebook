@@ -1,142 +1,52 @@
 [
   {
-    "title": {
-      "en": "The Curious Cat",
-      "ur": "جستجوئی بلی"
-    },
-    "description": {
-      "en": "A cat and a clever mouse play hide and seek.",
-      "ur": "ایک بلی اور ہوشیار چوہا چھپن چھپائی کھیلتے ہیں۔"
-    },
+    "title": { "en": "The Curious Cat", "ur": "جستجوئی بلی" },
+    "description": { "en": "A cat and a clever mouse play hide and seek.", "ur": "ایک بلی اور ہوشیار چوہا چھپن چھپائی کھیلتے ہیں۔" },
     "theme": "#DFF3FF",
     "pages": [
-      {
-        "en": "The cat sat on the mat, staring curiously at the mouse hole.",
-        "ur": "بلی چٹائی پر بیٹھی ہوئی تھی، چوہے کے سوراخ کو تجسس سے گھور رہی تھی۔",
-        "image": "https://via.placeholder.com/900x300?text=Curious+Cat"
-      },
-      {
-        "en": "Suddenly, a little mouse peeked out and the cat followed quietly.",
-        "ur": "اچانک ایک چھوٹا چوہا جھانک کر باہر آیا اور بلی چپکے سے اس کا پیچھا کرنے لگی۔",
-        "image": "https://via.placeholder.com/900x300?text=Little+Mouse"
-      },
-      {
-        "en": "The cat chased the mouse around the garden but never caught it.",
-        "ur": "بلی نے چوہے کو باغ کے ارد گرد دوڑا مگر کبھی اسے پکڑ نہ سکی۔",
-        "image": "https://via.placeholder.com/900x300?text=Garden"
-      }
+      { "en": "The cat sat on the mat, staring curiously at the mouse hole.", "ur": "بلی چٹائی پر بیٹھی ہوئی تھی، چوہے کے سوراخ کو تجسس سے گھور رہی تھی۔", "image": "/images/curios-cat.png" },
+      { "en": "Suddenly, a little mouse peeked out and the cat followed quietly.", "ur": "اچانک ایک چھوٹا چوہا جھانک کر باہر آیا اور بلی چپکے سے اس کا پیچھا کرنے لگی۔", "image": "/images/little-mouse.png" },
+      { "en": "The cat chased the mouse around the garden but never caught it.", "ur": "بلی نے چوہے کو باغ کے ارد گرد دوڑا مگر کبھی اسے پکڑ نہ سکی۔", "image": "/images/garden.png" }
     ]
   },
   {
-    "title": {
-      "en": "The Brave Little Bird",
-      "ur": "بہادر چھوٹا پرندہ"
-    },
-    "description": {
-      "en": "A small bird who dreams of touching the clouds.",
-      "ur": "ایک چھوٹا پرندہ جو بادلوں کو چھو کر دیکھنا چاہتا تھا۔"
-    },
+    "title": { "en": "The Brave Little Bird", "ur": "بہادر چھوٹا پرندہ" },
+    "description": { "en": "A small bird who dreams of touching the clouds.", "ur": "ایک چھوٹا پرندہ جو بادلوں کو چھو کر دیکھنا چاہتا تھا۔" },
     "theme": "#DFFFEF",
     "pages": [
-      {
-        "en": "A small bird wanted to fly higher than any bird before.",
-        "ur": "ایک چھوٹا پرندہ پہلے سے کہیں زیادہ اونچا اڑنا چاہتا تھا۔",
-        "image": "https://via.placeholder.com/900x300?text=Little+Bird"
-      },
-      {
-        "en": "It flapped its wings hard and soared above the trees.",
-        "ur": "اس نے زور سے پروں کو چلایا اور درختوں کے اوپر بلند ہو گیا۔",
-        "image": "https://via.placeholder.com/900x300?text=Trees"
-      },
-      {
-        "en": "The bird finally reached the clouds and felt very proud.",
-        "ur": "آخر کار پرندہ بادلوں تک پہنچ گیا اور بہت فخر محسوس کیا۔",
-        "image": "https://via.placeholder.com/900x300?text=Clouds"
-      }
+      { "en": "A small bird wanted to fly higher than any bird before.", "ur": "ایک چھوٹا پرندہ پہلے سے کہیں زیادہ اونچا اڑنا چاہتا تھا۔", "image": "/images/little-bird.png" },
+      { "en": "It flapped its wings hard and soared above the trees.", "ur": "اس نے زور سے پروں کو چلایا اور درختوں کے اوپر بلند ہو گیا۔", "image": "/images/trees.png" },
+      { "en": "The bird finally reached the clouds and felt very proud.", "ur": "آخر کار پرندہ بادلوں تک پہنچ گیا اور بہت فخر محسوس کیا۔", "image": "/images/clouds.png" }
     ]
   },
   {
-    "title": {
-      "en": "The Funny Dog",
-      "ur": "مزاحیہ کتا"
-    },
-    "description": {
-      "en": "A playful dog who loves silly tricks.",
-      "ur": "ایک شقی کتا جو مزاحیہ حرکتیں کرنا پسند کرتا ہے۔"
-    },
+    "title": { "en": "The Funny Dog", "ur": "مزاحیہ کتا" },
+    "description": { "en": "A playful dog who loves silly tricks.", "ur": "ایک شقی کتا جو مزاحیہ حرکتیں کرنا پسند کرتا ہے۔" },
     "theme": "#FFF8E6",
     "pages": [
-      {
-        "en": "A funny dog loved to play with balls in the park.",
-        "ur": "ایک مزاحیہ کتا پارک میں گیندوں کے ساتھ کھیلنا پسند کرتا تھا۔",
-        "image": "https://via.placeholder.com/900x300?text=Funny+Dog"
-      },
-      {
-        "en": "He rolled, jumped, and sometimes slipped, making everyone laugh.",
-        "ur": "وہ رول کرتا، چھلانگ لگاتا اور کبھی کبھار پھسل جاتا، جس سے سب ہنس پڑتے۔",
-        "image": "https://via.placeholder.com/900x300?text=Park"
-      },
-      {
-        "en": "At the end, the dog curled up under a tree and slept happily.",
-        "ur": "آخر میں کتا درخت کے نیچے لپٹ کر خوشی سے سو گیا۔",
-        "image": "https://via.placeholder.com/900x300?text=Dog+Sleeping"
-      }
+      { "en": "A funny dog loved to play with balls in the park.", "ur": "ایک مزاحیہ کتا پارک میں گیندوں کے ساتھ کھیلنا پسند کرتا تھا۔", "image": "/images/funny-dog.png" },
+      { "en": "He rolled, jumped, and sometimes slipped, making everyone laugh.", "ur": "وہ رول کرتا، چھلانگ لگاتا اور کبھی کبھار پھسل جاتا، جس سے سب ہنس پڑتے۔", "image": "/images/park.png" },
+      { "en": "At the end, the dog curled up under a tree and slept happily.", "ur": "آخر میں کتا درخت کے نیچے لپٹ کر خوشی سے سو گیا۔", "image": "/images/sleeping-dog.png" }
     ]
   },
   {
-    "title": {
-      "en": "The Magical Forest",
-      "ur": "جادوئی جنگل"
-    },
-    "description": {
-      "en": "Trees, animals, and nighttime magic.",
-      "ur": "درخت، جانور اور رات کا جادو۔"
-    },
+    "title": { "en": "The Magical Forest", "ur": "جادوئی جنگل" },
+    "description": { "en": "Trees, animals, and nighttime magic.", "ur": "درخت، جانور اور رات کا جادو۔" },
     "theme": "#F0F2FF",
     "pages": [
-      {
-        "en": "In a magical forest, every tree could talk to the animals.",
-        "ur": "ایک جادوئی جنگل میں ہر درخت جانوروں سے بات کر سکتا تھا۔",
-        "image": "https://via.placeholder.com/900x300?text=Magical+Forest"
-      },
-      {
-        "en": "The animals listened to the trees' stories of ancient times.",
-        "ur": "جانور قدیم زمانے کی کہانیاں سننے کے لیے درختوں کی باتیں سنتے تھے۔",
-        "image": "https://via.placeholder.com/900x300?text=Ancient+Stories"
-      },
-      {
-        "en": "They celebrated together and danced under the moonlight.",
-        "ur": "وہ سب مل کر جشن مناتے اور چاندنی میں رقص کرتے۔",
-        "image": "https://via.placeholder.com/900x300?text=Moonlight"
-      }
+      { "en": "In a magical forest, every tree could talk to the animals.", "ur": "ایک جادوئی جنگل میں ہر درخت جانوروں سے بات کر سکتا تھا۔", "image": "/images/magical-forest.png" },
+      { "en": "The animals listened to the trees' stories of ancient times.", "ur": "جانور قدیم زمانے کی کہانیاں سننے کے لیے درختوں کی باتیں سنتے تھے۔", "image": "/images/ancient-stories.png" },
+      { "en": "They celebrated together and danced under the moonlight.", "ur": "وہ سب مل کر جشن مناتے اور چاندنی میں رقص کرتے۔", "image": "/images/moonlight.png" }
     ]
   },
   {
-    "title": {
-      "en": "The Little Explorer",
-      "ur": "چھوٹا مہم جو"
-    },
-    "description": {
-      "en": "Adventure-seeking child finds hidden treasures.",
-      "ur": "مہم جوئی کا شوق رکھنے والا بچہ چھپے ہوئے خزانے تلاش کرتا ہے۔"
-    },
+    "title": { "en": "The Little Explorer", "ur": "چھوٹا مہم جو" },
+    "description": { "en": "Adventure-seeking child finds hidden treasures.", "ur": "مہم جوئی کا شوق رکھنے والا بچہ چھپے ہوئے خزانے تلاش کرتا ہے۔" },
     "theme": "#FFF0FF",
     "pages": [
-      {
-        "en": "A little explorer wanted to find hidden treasures around the world.",
-        "ur": "ایک چھوٹا مہم جو دنیا بھر میں چھپے خزانے تلاش کرنا چاہتا تھا۔",
-        "image": "https://via.placeholder.com/900x300?text=Explorer"
-      },
-      {
-        "en": "He sailed across oceans and climbed tall mountains.",
-        "ur": "وہ سمندروں کو پار کر کے اونچی پہاڑیاں چڑھا۔",
-        "image": "https://via.placeholder.com/900x300?text=Mountains"
-      },
-      {
-        "en": "Finally, he found a chest full of gold and shared it with friends.",
-        "ur": "آخر کار وہ سونے سے بھرے صندوق تک پہنچا اور اسے اپنے دوستوں کے ساتھ بانٹ لیا۔",
-        "image": "https://via.placeholder.com/900x300?text=Treasure+Chest"
-      }
+      { "en": "A little explorer wanted to find hidden treasures around the world.", "ur": "ایک چھوٹا مہم جو دنیا بھر میں چھپے خزانے تلاش کرنا چاہتا تھا۔", "image": "/images/explorer.png" },
+      { "en": "He sailed across oceans and climbed tall mountains.", "ur": "وہ سمندروں کو پار کر کے اونچی پہاڑیاں چڑھا۔", "image": "/images/mountains.png" },
+      { "en": "Finally, he found a chest full of gold and shared it with friends.", "ur": "آخر کار وہ سونے سے بھرے صندوق تک پہنچا اور اسے اپنے دوستوں کے ساتھ بانٹ لیا۔", "image": "/images/treasure-chest.png" }
     ]
   }
 ]
